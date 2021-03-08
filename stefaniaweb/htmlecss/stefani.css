@@ -1,0 +1,23 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: rgb(136, 18, 18);
+    font-style: Georgia;
+    text-align: justify;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    color: rgb(136, 18, 18);
+    font-style: Helvetica;
+    text-transform: capitalize;
+    text-align: Georgia;
+}
+p{
+    text-align: justify;
+    text-indent: 12px;
+    color:rgb(136, 18, 18);
+    font-style: Georgia;
+
+}
+body { background-image: url("CapaGrande.jpeg")}

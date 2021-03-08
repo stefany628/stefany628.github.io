@@ -1,0 +1,30 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: rgb(136, 18, 18);
+    font-style: Helvetica;
+    text-align: justify;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: rgb(136, 18, 18);
+    font-style: Helvetica;
+    text-transform: capitalize;
+    text-align: center;
+}
+p{
+    text-align: center;
+    text-indent: 12px;
+    color:black;
+    font-style: Helvetica;
+
+}
+.grid {
+    display: grid;
+    grid-template-columns: 900px 900px;
+}
+
+.Texto{
+    padding: 20px;
+}
